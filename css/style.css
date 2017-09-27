@@ -1,0 +1,17 @@
+* {
+   border: 2px solid transparent;
+   margin: 0;
+   padding: 0;
+}
+
+html {
+   border-color: red;
+}
+
+body {
+   border-color: blue;
+}
+
+header, nav, main, footer {
+   border-color: purple;
+}
